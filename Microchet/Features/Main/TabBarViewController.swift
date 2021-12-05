@@ -39,7 +39,7 @@ class TabBarViewController: UITabBarController {
         viewControllers = [
             //MARK: -UiImage are not supported below iOS 15, the original was menucard and clock
             createNavigationController(for: PatternViewController(), title: NSLocalizedString("Pattern", comment: ""), image: UIImage(systemName: "line.3.crossed.swirl.circle.fill")!),
-            createNavigationController(for: LibraryViewController(), title: NSLocalizedString("Library", comment: ""), image: UIImage(systemName: "list.bullet.rectangle")!),
+            createNavigationController(for: LibraryViewController(), title: NSLocalizedString("Basic Stitch", comment: ""), image: UIImage(systemName: "list.bullet.rectangle")!),
             createNavigationController(for: MyProjectViewController(), title: NSLocalizedString("My Project", comment: ""), image: UIImage(systemName: "person.fill")!)
         ]
     }

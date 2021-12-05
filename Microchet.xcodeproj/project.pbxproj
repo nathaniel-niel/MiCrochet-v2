@@ -17,14 +17,20 @@
 		2D1F2BC9275D251500A3BA15 /* PatternViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2BC8275D251500A3BA15 /* PatternViewController.swift */; };
 		2D1F2BCC275D253100A3BA15 /* LibraryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2BCB275D253100A3BA15 /* LibraryViewController.swift */; };
 		2D1F2BCF275D254700A3BA15 /* MyProjectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2BCE275D254700A3BA15 /* MyProjectViewController.swift */; };
-		2D1F2BD4275D291A00A3BA15 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D1F2BD2275D291A00A3BA15 /* Poppins-Regular.ttf */; };
-		2D1F2BD5275D291A00A3BA15 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D1F2BD3275D291A00A3BA15 /* Poppins-SemiBold.ttf */; };
 		2D1F2BDA275D2B4F00A3BA15 /* PatternModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2BD9275D2B4F00A3BA15 /* PatternModel.swift */; };
 		2D1F2BDD275D2D7F00A3BA15 /* PatternViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2BDC275D2D7F00A3BA15 /* PatternViewModel.swift */; };
 		2D1F2BE1275D2DCD00A3BA15 /* PatternUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2BE0275D2DCD00A3BA15 /* PatternUIView.swift */; };
 		2D1F2BE5275D326800A3BA15 /* LargeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2BE4275D326800A3BA15 /* LargeTableViewCell.swift */; };
 		2D1F2BE7275D328800A3BA15 /* PatternVC+Extentsion.swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2BE6275D328800A3BA15 /* PatternVC+Extentsion.swift.swift */; };
 		2D1F2BEA275D3FE500A3BA15 /* ViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2BE9275D3FE500A3BA15 /* ViewController+Extension.swift */; };
+		2D1F2BEC275D461800A3BA15 /* RegularTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2BEB275D461800A3BA15 /* RegularTableViewCell.swift */; };
+		2D1F2BF2275D493100A3BA15 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D1F2BEF275D493100A3BA15 /* Poppins-Regular.ttf */; };
+		2D1F2BF3275D493100A3BA15 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D1F2BF0275D493100A3BA15 /* Poppins-Bold.ttf */; };
+		2D1F2BF4275D493100A3BA15 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D1F2BF1275D493100A3BA15 /* Poppins-SemiBold.ttf */; };
+		2D1F2BFB275D4CB900A3BA15 /* LibraryUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2BFA275D4CB900A3BA15 /* LibraryUIView.swift */; };
+		2D1F2BFE275D4DFE00A3BA15 /* LibraryVC+Extension.swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2BFD275D4DFE00A3BA15 /* LibraryVC+Extension.swift.swift */; };
+		2D1F2C05275D534800A3BA15 /* MyProjectUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2C04275D534800A3BA15 /* MyProjectUI.swift */; };
+		2D1F2C09275D537400A3BA15 /* MyProjectVC+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F2C08275D537400A3BA15 /* MyProjectVC+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,14 +46,20 @@
 		2D1F2BC8275D251500A3BA15 /* PatternViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatternViewController.swift; sourceTree = "<group>"; };
 		2D1F2BCB275D253100A3BA15 /* LibraryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryViewController.swift; sourceTree = "<group>"; };
 		2D1F2BCE275D254700A3BA15 /* MyProjectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProjectViewController.swift; sourceTree = "<group>"; };
-		2D1F2BD2275D291A00A3BA15 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
-		2D1F2BD3275D291A00A3BA15 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
 		2D1F2BD9275D2B4F00A3BA15 /* PatternModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatternModel.swift; sourceTree = "<group>"; };
 		2D1F2BDC275D2D7F00A3BA15 /* PatternViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatternViewModel.swift; sourceTree = "<group>"; };
 		2D1F2BE0275D2DCD00A3BA15 /* PatternUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatternUIView.swift; sourceTree = "<group>"; };
 		2D1F2BE4275D326800A3BA15 /* LargeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargeTableViewCell.swift; sourceTree = "<group>"; };
 		2D1F2BE6275D328800A3BA15 /* PatternVC+Extentsion.swift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PatternVC+Extentsion.swift.swift"; sourceTree = "<group>"; };
 		2D1F2BE9275D3FE500A3BA15 /* ViewController+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+Extension.swift"; sourceTree = "<group>"; };
+		2D1F2BEB275D461800A3BA15 /* RegularTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegularTableViewCell.swift; sourceTree = "<group>"; };
+		2D1F2BEF275D493100A3BA15 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		2D1F2BF0275D493100A3BA15 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		2D1F2BF1275D493100A3BA15 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		2D1F2BFA275D4CB900A3BA15 /* LibraryUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryUIView.swift; sourceTree = "<group>"; };
+		2D1F2BFD275D4DFE00A3BA15 /* LibraryVC+Extension.swift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LibraryVC+Extension.swift.swift"; sourceTree = "<group>"; };
+		2D1F2C04275D534800A3BA15 /* MyProjectUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProjectUI.swift; sourceTree = "<group>"; };
+		2D1F2C08275D537400A3BA15 /* MyProjectVC+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MyProjectVC+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,7 +163,10 @@
 		2D1F2BC5275D245600A3BA15 /* MyProject */ = {
 			isa = PBXGroup;
 			children = (
-				2D1F2BCE275D254700A3BA15 /* MyProjectViewController.swift */,
+				2D1F2C06275D535300A3BA15 /* Extension */,
+				2D1F2C01275D532800A3BA15 /* View */,
+				2D1F2C00275D532100A3BA15 /* ViewModel */,
+				2D1F2BFF275D531B00A3BA15 /* Model */,
 			);
 			path = MyProject;
 			sourceTree = "<group>";
@@ -159,7 +174,10 @@
 		2D1F2BCA275D252100A3BA15 /* Library */ = {
 			isa = PBXGroup;
 			children = (
-				2D1F2BCB275D253100A3BA15 /* LibraryViewController.swift */,
+				2D1F2BFC275D4CBF00A3BA15 /* Extension */,
+				2D1F2BF7275D4C8D00A3BA15 /* ViewModel */,
+				2D1F2BF6275D4C8700A3BA15 /* View */,
+				2D1F2BF5275D4C7F00A3BA15 /* Model */,
 			);
 			path = Library;
 			sourceTree = "<group>";
@@ -167,19 +185,10 @@
 		2D1F2BD0275D28DC00A3BA15 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				2D1F2BD1275D291A00A3BA15 /* Fonts  */,
+				2D1F2BEE275D493100A3BA15 /* fonts */,
 				2D1F2BB2275D237F00A3BA15 /* Assets.xcassets */,
 			);
 			path = Assets;
-			sourceTree = "<group>";
-		};
-		2D1F2BD1275D291A00A3BA15 /* Fonts  */ = {
-			isa = PBXGroup;
-			children = (
-				2D1F2BD2275D291A00A3BA15 /* Poppins-Regular.ttf */,
-				2D1F2BD3275D291A00A3BA15 /* Poppins-SemiBold.ttf */,
-			);
-			path = "Fonts ";
 			sourceTree = "<group>";
 		};
 		2D1F2BD6275D2B1300A3BA15 /* View */ = {
@@ -235,6 +244,7 @@
 			isa = PBXGroup;
 			children = (
 				2D1F2BE4275D326800A3BA15 /* LargeTableViewCell.swift */,
+				2D1F2BEB275D461800A3BA15 /* RegularTableViewCell.swift */,
 			);
 			path = ReusableComponents;
 			sourceTree = "<group>";
@@ -243,6 +253,110 @@
 			isa = PBXGroup;
 			children = (
 				2D1F2BE9275D3FE500A3BA15 /* ViewController+Extension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		2D1F2BEE275D493100A3BA15 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				2D1F2BEF275D493100A3BA15 /* Poppins-Regular.ttf */,
+				2D1F2BF0275D493100A3BA15 /* Poppins-Bold.ttf */,
+				2D1F2BF1275D493100A3BA15 /* Poppins-SemiBold.ttf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+		2D1F2BF5275D4C7F00A3BA15 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		2D1F2BF6275D4C8700A3BA15 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2D1F2BF9275D4C9F00A3BA15 /* UI */,
+				2D1F2BF8275D4C9900A3BA15 /* Controller */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		2D1F2BF7275D4C8D00A3BA15 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		2D1F2BF8275D4C9900A3BA15 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				2D1F2BCB275D253100A3BA15 /* LibraryViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		2D1F2BF9275D4C9F00A3BA15 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				2D1F2BFA275D4CB900A3BA15 /* LibraryUIView.swift */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		2D1F2BFC275D4CBF00A3BA15 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				2D1F2BFD275D4DFE00A3BA15 /* LibraryVC+Extension.swift.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		2D1F2BFF275D531B00A3BA15 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		2D1F2C00275D532100A3BA15 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		2D1F2C01275D532800A3BA15 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2D1F2C03275D533200A3BA15 /* Controller */,
+				2D1F2C02275D532D00A3BA15 /* UI */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		2D1F2C02275D532D00A3BA15 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				2D1F2C04275D534800A3BA15 /* MyProjectUI.swift */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		2D1F2C03275D533200A3BA15 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				2D1F2BCE275D254700A3BA15 /* MyProjectViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		2D1F2C06275D535300A3BA15 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				2D1F2C08275D537400A3BA15 /* MyProjectVC+Extension.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -305,10 +419,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2D1F2BD4275D291A00A3BA15 /* Poppins-Regular.ttf in Resources */,
-				2D1F2BD5275D291A00A3BA15 /* Poppins-SemiBold.ttf in Resources */,
+				2D1F2BF4275D493100A3BA15 /* Poppins-SemiBold.ttf in Resources */,
+				2D1F2BF2275D493100A3BA15 /* Poppins-Regular.ttf in Resources */,
 				2D1F2BB6275D237F00A3BA15 /* LaunchScreen.storyboard in Resources */,
 				2D1F2BB3275D237F00A3BA15 /* Assets.xcassets in Resources */,
+				2D1F2BF3275D493100A3BA15 /* Poppins-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -320,7 +435,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				2D1F2BCF275D254700A3BA15 /* MyProjectViewController.swift in Sources */,
+				2D1F2BEC275D461800A3BA15 /* RegularTableViewCell.swift in Sources */,
 				2D1F2BE1275D2DCD00A3BA15 /* PatternUIView.swift in Sources */,
+				2D1F2BFE275D4DFE00A3BA15 /* LibraryVC+Extension.swift.swift in Sources */,
 				2D1F2BB1275D237E00A3BA15 /* Microchet.xcdatamodeld in Sources */,
 				2D1F2BCC275D253100A3BA15 /* LibraryViewController.swift in Sources */,
 				2D1F2BC2275D240400A3BA15 /* Constant.swift in Sources */,
@@ -328,8 +445,11 @@
 				2D1F2BC9275D251500A3BA15 /* PatternViewController.swift in Sources */,
 				2D1F2BA7275D237D00A3BA15 /* AppDelegate.swift in Sources */,
 				2D1F2BC7275D24AB00A3BA15 /* TabBarViewController.swift in Sources */,
+				2D1F2C09275D537400A3BA15 /* MyProjectVC+Extension.swift in Sources */,
 				2D1F2BDD275D2D7F00A3BA15 /* PatternViewModel.swift in Sources */,
 				2D1F2BEA275D3FE500A3BA15 /* ViewController+Extension.swift in Sources */,
+				2D1F2C05275D534800A3BA15 /* MyProjectUI.swift in Sources */,
+				2D1F2BFB275D4CB900A3BA15 /* LibraryUIView.swift in Sources */,
 				2D1F2BDA275D2B4F00A3BA15 /* PatternModel.swift in Sources */,
 				2D1F2BA9275D237D00A3BA15 /* SceneDelegate.swift in Sources */,
 				2D1F2BE7275D328800A3BA15 /* PatternVC+Extentsion.swift.swift in Sources */,

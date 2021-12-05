@@ -1,5 +1,5 @@
 //
-//  PatternVC+Extentsion.swift.swift
+//  LibraryVC+Extension.swift.swift
 //  Microchet
 //
 //  Created by Nathaniel Andrian on 06/12/21.
@@ -8,20 +8,22 @@
 import Foundation
 import UIKit
 
-extension PatternViewController: UITableViewDelegate, UITableViewDataSource{
+extension LibraryViewController: UITableViewDelegate, UITableViewDataSource{
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        10
+        return 10
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "patternCell") as! LargeTableViewCell
+        let cell = tableView.dequeueReusableCell(withIdentifier: "libraryCell") as! RegularTableViewCell
         cell.selectionStyle = .none
+        
         return cell
     }
     
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 140.0
+        return 52
     }
+    
     
 }

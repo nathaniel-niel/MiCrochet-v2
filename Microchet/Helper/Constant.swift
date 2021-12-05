@@ -41,8 +41,10 @@ struct Constant{
     static let black90 = "#202020"
     static let shadowColor = "#DDDDDD"
     static let white = "#FBFBFB"
+    static let light_red = "#FAD1CB"
+    static let light_salmon_pink = "#F79A99"
     
-    // MARK: -Fonts
+    // MARK: - Fonts
     static let fontPoppinsRegular = "Poppins-Regular"
     static let fontPoppinsSemibold = "Poppins-SemiBold"
     static let fontPoppinsBold = "Poppins-Bold"
